@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Dynamic Pricing Product Exclusions\n"
+"POT-Creation-Date: 2014-08-08 08:42+1000\n"
+"PO-Revision-Date: 2014-08-08 08:42+1000\n"
+"Last-Translator: \n"
+"Language-Team:  <me@nathanfranklin.com.au>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /Users/Nathan/Sites/Plugins/woocommerce-dynamic-pricing-"
+"exclusions/\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: trunk\n"
+
+#: trunk/plugin.php:43
+msgid ""
+"The WooCommerce Dynamic Pricing Product Exclusions plugin requires "
+"WooCommerce and the premium WooCommerce Dynamic Pricing plugins to be "
+"installed and activated."
+msgstr ""
+
+#: trunk/plugin.php:60
+msgid "Disable Dynamic Pricing"
+msgstr ""
+
+#: trunk/plugin.php:77
+msgid "Select the modules to bypass when calculating dynamic pricing."
+msgstr ""
+
+#: trunk/plugin.php:104
+msgid "Advanced Product"
+msgstr ""
+
+#: trunk/plugin.php:105
+msgid "Advanced Category"
+msgstr ""
+
+#: trunk/plugin.php:106
+msgid "Advanced Totals"
+msgstr ""
+
+#: trunk/plugin.php:107
+msgid "Simple Product"
+msgstr ""
+
+#: trunk/plugin.php:108
+msgid "Simple Category"
+msgstr ""
+
+#: trunk/plugin.php:109
+msgid "Simple Membership"
+msgstr ""
